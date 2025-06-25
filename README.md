@@ -8,7 +8,7 @@ A collection of short write-ups of things that I have learned day to day. Inspir
 
 ## Categories
 
-- [[README#Excel|Excel]]
+- [Excel](#excel)
 
 ## Excel
 - Ranking Unique Combinations Based on Date
