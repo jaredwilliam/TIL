@@ -4,6 +4,8 @@ tags:
   - TIL
 categories:
   - "[[Excel]]"
+aliases:
+  - Ranking Unique Combinations Based on Date
 ---
 
 Say you have a table like below and you want to create a new "Order" column that ranks the unique combinations of "Planet" and "Faction", by date in descending order (newest to oldest). 
