@@ -9,6 +9,7 @@ A collection of short write-ups of things that I have learned day to day. Inspir
 ## Categories
 
 - [Excel](#excel)
+- [Python](#python)
 
 ## Excel
 - [Ranking Unique Combinations Based on Date](excel/Ranking%20Unique%20Combinations%20Based%20on%20Date.md)
