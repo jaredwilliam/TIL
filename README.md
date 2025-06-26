@@ -11,7 +11,7 @@ A collection of short write-ups of things that I have learned day to day. Inspir
 - [Excel](#excel)
 
 ## Excel
-- [[Ranking Unique Combinations Based on Date]]
+- [Ranking Unique Combinations Based on Date](Ranking Unique Combinations Based on Date.md)
 
 ## Python
-- [[Module Shadowing and Naming Python Files]]
+- [Module Shadowing and Naming Python Files](Module Shadowing and Naming Python Files)
